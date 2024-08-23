@@ -1,0 +1,35 @@
+.container {
+    padding: 20px 40px 20px 40px;
+}
+
+.cont__item {
+    margin: 0 0 20px 0;
+    width: 100%;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+::placeholder{
+    color: white;
+}
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+}
+
+.myCard{
+    color: white;
+}
+
+.myAvatar{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+  

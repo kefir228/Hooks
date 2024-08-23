@@ -1,0 +1,25 @@
+.header__list {
+    position: sticky;
+    top: 0;
+    background-color: grey;
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.time{
+    font-weight:bold;
+    color: white;
+}
+
+.header__time {
+    list-style: none;
+}
+
+.header__state {
+    padding: 0 40px 0 0;
+    color: white;
+}
+

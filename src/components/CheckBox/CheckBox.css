@@ -1,0 +1,10 @@
+.cont{
+    display: flex;
+    padding: 0 40px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.male, .female, .unknown{
+    color: white;
+}
